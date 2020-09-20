@@ -73,7 +73,6 @@ section {
 
 /* Styling the content in the articles */
 article section {
-  line-height: 10px; 
-  text-margin: 15px;
+  margin: 25px, 50px, 25px, 50px;
   padding: 10px; 
 }
